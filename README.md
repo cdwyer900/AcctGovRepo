@@ -1,2 +1,2 @@
 # AcctGovRepo
- repo for looking a accting standards and ESG
+ repo for looking at accting standards and ESG
